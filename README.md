@@ -6,7 +6,7 @@
 
 | Название проета          | Описание         | Инструменты и области знаний    |
 | :---                          | :---          |:---          |
-| [Анализ результатов А/В-теста](https://github.com/ElenaNKn/data_projects_ru/blob/master/project_ab_testing/notebook_ab_test.ipynb)  | Дизайн A/B-теста бинарной метрики и анализ его результатов | Дизайн эксперимента, проверка однородности, статистическая значимость отличия 2 переменных, анализ результатов A/B-теста бинарной метрики. Инструменты: библиотеки python (pandas, numpy, math, scipy.stats, statsmodels.stats)      |
+| [Анализ результатов А/В-теста](https://github.com/ElenaNKn/data_projects_ru/blob/master/project_ab_testing/notebook_ab_test.ipynb)  | Полный цикл A/B-теста: от формулировки гипотезы до интерпретации результатов | Дизайн эксперимента, проверка однородности, статистическая значимость отличия 2 переменных, анализ результатов A/B-теста бинарной метрики. Инструменты: библиотеки python (pandas, numpy, math, scipy.stats, statsmodels.stats)      |
 
 ## Контакты
 
