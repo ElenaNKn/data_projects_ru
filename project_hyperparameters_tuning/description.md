@@ -53,4 +53,4 @@ Broad Bean Origin - географический регион происхожд
 6. Посредством `Optuna` выполнен подбор гиперпараметров для `CatBoostRegressor`. Построена модель со следующими значениями гиперпараметров:*{'learning_rate': 0.011350665681546111, 'max_depth': 8, 'n_estimators': 4060, 'min_child_samples': 196, 'subsample': 0.5719799748437518, 'use_best_model': True, 'logging_level': 'Silent', 'eval_metric': 'R2'}*.
 Среднее значение r2_score модели на обучающих данных составило 0.2097. R2_score на тестовой выборке составил 0.21911
 
-Ноутбук проекта доступен по ссылке: ["CatBoost для решения задачи регрессии. Подбор гиперпараметров с Optuna"](https://github.com/ElenaNKn/portfolio_rus/blob/master/project_hyperparameters_tuning/project.ipynb)
+Ноутбук проекта доступен по ссылке: ["CatBoost для решения задачи регрессии. Подбор гиперпараметров с Optuna"](https://github.com/ElenaNKn/data_projects_ru/blob/master/project_hyperparameters_tuning/project.ipynb)
