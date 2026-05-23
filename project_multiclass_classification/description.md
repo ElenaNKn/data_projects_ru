@@ -34,4 +34,4 @@
 
 Таким образом, в качестве окончательной модели принята модель, построенная на основе логистической регрессии с коэффициентом регуляризации С=0.06, автоматической балансировкой данных (class_weight='balanced') и one-versus-rest подходом для учета многоклассовой постановки задачи (multi_class='ovr'), безошибочно классифицировавшая все объекты тестовой выборки.
 
-Ноутбук проекта доступен по ссылке: ["Многоклассовая классификация при дисбалансе классов"](https://github.com/ElenaNKn/portfolio_rus/blob/master/project_multiclass_classification/project.ipynb)
+Ноутбук проекта доступен по ссылке: ["Многоклассовая классификация при дисбалансе классов"](https://github.com/ElenaNKn/data_projects_ru/blob/master/project_multiclass_classification/project.ipynb)
