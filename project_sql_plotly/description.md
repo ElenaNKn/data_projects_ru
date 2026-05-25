@@ -40,6 +40,6 @@
 
 После завершения курса "Анализ данных в индустрии" база данных проекта "Тинькофф квест" недоступна для переподключения. Вместе с тем ноутбук проекта доступен к просмотру.
 
-Для того, чтобы скачать ноутбук с выполненным проектом и построенными графиками необходимо пройти по ссылке ["Визуализация воронок"](https://github.com/ElenaNKn/portfolio_rus/blob/master/project_sql_plotly/report_sql_plotly.ipynb) и нажать кнопку ***"Download raw file"***:
+Ноутбук с выполненным проектом находится по ссылке ["Визуализация воронок"](https://github.com/ElenaNKn/data_projects_ru/blob/master/project_sql_plotly/report_sql_plotly.ipynb) и нажать кнопку ***"Download raw file"***:
 
 <img src="images/download.png" width="700" height="150" alt="download_button"/>
